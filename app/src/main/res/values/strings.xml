@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="click_me">Click me</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="use_intent">Use Intent</string>
+    <string name="exit">Exit</string>
+</resources>
